@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+// This is some C code I wrote for ass3.asm to gather my thoughts
+// and test my algorithms before attempting to write them in
+// assembly.
+
 int lsb(int number);
 int msb(int number, int lsb);
 int bitCount(int number);
