@@ -14,6 +14,6 @@ chmod +x asm32
 ## Usage
 To assemble and link `assN.asm`, run the following in the root of the project
 ```
-./asm32 assN
+./asm32 src/assN
 ```
 That will make an `assN` executable in the current directory and execute it.
